@@ -1,0 +1,28 @@
+body{
+    background-image: url("https://previews.123rf.com/images/anupapjaichumnan/anupapjaichumnan1707/anupapjaichumnan170700043/81733292-abstract-bokeh-background-light-pink-skin-color.jpg");
+  }
+  .color1{
+    text-align: center;
+    color: rgb(7, 7, 7);
+    opacity: 0.5;
+  }
+  .color2{
+    text-align: center;
+    color: rgb(0, 0, 0);
+  }
+  .color3{
+    color: rgb(0, 0, 0);
+    text-align: center;
+   
+  }
+  .color4{
+    text-align: right;
+  }
+  .color5{
+    float: right;
+    padding: 20px;
+  }
+  
+  
+
+  
